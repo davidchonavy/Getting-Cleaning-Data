@@ -1,0 +1,4 @@
+The allmeans matrix produced by the run_analysis.R script is a matrix of 180 rows and 68 columns.  Each row includes an average
+calculation of 66 measures of mean and standard deviation from filtered sensor data in a Samsung phone.  Also, each row includes
+a subject and activity identifier.  There are 6 activities (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
+and 30 subjects (1 through 30).
